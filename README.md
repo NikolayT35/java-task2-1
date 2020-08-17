@@ -24,4 +24,4 @@
 
 * Windows X; 64 bit
 * Java 10.0.8
-* IntekkiJ IDEA 2020.2
+* IntelliJ IDEA 2020.2
